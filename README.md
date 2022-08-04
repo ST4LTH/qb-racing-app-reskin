@@ -1,6 +1,9 @@
 # qb-racing-app-reskin
 qb-phone-np-racing-app
 
+OBS I USE LLBOOYAS QB-PHONE RESKIN, THIS MIGHT NOT FIT PERFECTLY FOR YOUR PHONE
+https://github.com/llbooya/qb-phone-npstyle
+
 ![main menu](https://i.imgur.com/5XL0hIr.png)
 ![create race](https://i.imgur.com/GkW3vO7.png)
 ![leaderboard](https://i.imgur.com/YI3lQBp.png)
